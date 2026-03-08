@@ -50,4 +50,4 @@ Each sub-directory is an independent project managing its own dependencies. To r
 The projects in this repository are for experimental purposes. Never share your `.env` files and carefully review the contracts before deploying to mainnet environments.
 
 ---
-*Developed by: [Your Name/Username]*
+*Developed by: YMG *
